@@ -33,3 +33,5 @@
 - >BALANCE SHEET:-https://meet-chauhan-1755.github.io/FreeCodeCamp/BalanceSheet/index.htm
 
 - >MAGAZINE:-https://meet-chauhan-1755.github.io/FreeCodeCamp/Magazine/index.htm
+
+- >PENGUIN:-https://meet-chauhan-1755.github.io/FreeCodeCamp/Penguin/index.htm
