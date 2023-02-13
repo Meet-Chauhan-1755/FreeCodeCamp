@@ -31,3 +31,5 @@
 - >FERRIS WHEEL:-https://meet-chauhan-1755.github.io/FreeCodeCamp/FerrisWheel/index.htm
 
 - >BALANCE SHEET:-https://meet-chauhan-1755.github.io/FreeCodeCamp/BalanceSheet/index.htm
+
+- >MAGAZINE:-https://meet-chauhan-1755.github.io/FreeCodeCamp/Magazine/index.htm
